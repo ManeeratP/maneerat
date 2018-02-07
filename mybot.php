@@ -1,5 +1,6 @@
 ﻿<?php
-$access_token = 'Ehn3yoyNXL38qDYJ3dvIoOYLY3JTiJ4t52KhbqWEv/NY44uFEeklU38krlEpKBQokw2B2Z4cRV5G6ixEHjYHjbP9ojsh7Fe27ZOumXTqyKOs/VzZE78U6xeEnEw8jFd0xRApwKtUk0cYwCuoZS7LigdB04t89/1O/w1cDnyilFU=
+$access_token = 'tJLXQAkwYgzEaXDrpAEZDeXxuABoZDDw2TXMHGfYr5Xa+k2zFzibRIZ4zTzp1lKrkw2B2Z4cRV5G6ixEHjYHjbP9ojsh7Fe27ZOumXTqyKPL/8l4CgR4YANmkY6eRY3HM724x+AdsC0USTI8oD+m7wdB04t89/1O/w1cDnyilFU=
+=
 ';
 // Get POST body content
 $content = file_get_contents('php://input');
